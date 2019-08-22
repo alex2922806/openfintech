@@ -9240,7 +9240,7 @@
       "astropaycash",
       "astropayunion"
     ],
-    "payout_methods": [
+    "payout_method": [
       "skrill"
     ],
     "name": {
@@ -15041,6 +15041,7 @@
       "en": "Paymentwall"
     },
     "payment_method": [
+      "payment_card"
     ],
     "payout_method": [
     ]
@@ -15313,6 +15314,9 @@
       "RU"
     ],
     "payment_method": [
+      "payment_card"
+    ],
+    "payout_method": [
       "payment_card"
     ]
   },
