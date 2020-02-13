@@ -3292,7 +3292,7 @@
   {
     "code": "uax_uah_transfer",
     "currency": "UAH",
-    "flow": "transfer",
+    "flow": "invoice",
     "method": "uax",
     "amount_min": 0.01,
     "amount_max": 100000
