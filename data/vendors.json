@@ -12472,6 +12472,35 @@
     }
   },
   {
+    "code": "tmb",
+    "status": "active",
+    "name": {
+      "en": "Central Bank of Turkmenistan",
+      "ru": "Центральный банк Туркменистана"
+    }
+  },
+  {
+    "code": "valutaExchange",
+    "status": "active",
+    "name": {
+      "en": "Valuta exchange"
+    }
+  },
+  {
+    "code": "ngb",
+    "status": "active",
+    "name": {
+      "en": "Central Bank of Nigeria"
+    }
+  },
+  {
+    "code": "tcmb",
+    "status": "active",
+    "name": {
+      "en": "Central Bank of the Republic of Turkey"
+    }
+  },
+  {
     "code": "swipehq",
     "status": "active",
     "address": {
