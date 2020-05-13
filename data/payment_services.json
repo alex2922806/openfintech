@@ -888,7 +888,7 @@
     "amount_max": 100000
   },
   {
-    "code": "latam_usd_hpp",
+    "code": "test",
     "currency": "USD",
     "flow": "hpp",
     "method": "latam",
